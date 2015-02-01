@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<roleInfo>
+<roleNo>3</roleNo><![CDATA[roleNo表示角色标识]]> 
+<roleName>普通业务员</roleName><![CDATA[roleName表示角色名称]]> 
+<roleParentNo>0</roleParentNo><![CDATA[roleParentNo表示父角色标识]]> 
+</roleInfo>
+</data>
